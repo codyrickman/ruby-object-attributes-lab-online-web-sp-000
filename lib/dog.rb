@@ -14,7 +14,7 @@ class Dog
 end
 
 
-jake = new Dog
+jake = Dog.new
 
 jake.name = "Jake"
 
