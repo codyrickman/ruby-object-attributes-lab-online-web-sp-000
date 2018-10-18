@@ -12,3 +12,10 @@ class Dog
     puts @this_dogs_breed
   end
 end
+
+
+jake = new Dog
+
+jake.name = "Jake"
+
+jake.name
